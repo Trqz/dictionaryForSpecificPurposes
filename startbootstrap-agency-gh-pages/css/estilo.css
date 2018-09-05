@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 
+#design, #server, #programming{
+
+display: none
+
+}
+
 #botao{
   
   margin-left: 1310px;
