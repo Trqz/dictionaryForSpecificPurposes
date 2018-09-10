@@ -10,7 +10,7 @@ function hide() {
 
 }
 
-function displayFunction_design() {
+function displayFunction_design()	 {
  
  if (design.style.display === 'none') {
  design.style.display = 'block';
