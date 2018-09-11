@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 
-
+#imagem{
+	height: 250px;
+}
 #botao{
   
   margin-left: 770px;
